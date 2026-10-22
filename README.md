@@ -35,10 +35,10 @@
 | Project | Highlights | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **[Task-Management-Web-App](https://github.com/deekshi07/Task-Management-Web-App)** | Interactive task workflow manager featuring state persistence, Kanban layout, and responsive UI. | `React` `TypeScript` `Vite` `Tailwind` | [View Repo ➔](https://github.com/deekshi07/Task-Management-Web-App) |
-| **[AI-Powered_Financial_Insights_Chatbot](https://github.com/deekshi07/AI-Powered_Financial_Insights_Chatbot)** | Intelligent conversational assistant analyzing financial reports and generating structured insights. | `Python` `NLP` `Streamlit` `LLM` | [View Repo ➔](https://github.com/deekshi07/AI-Powered_Financial_Insights_Chatbot) |
+| **[AI-Powered_Financial_Insights_Chatbot](https://github.com/deekshi07/AI-Powered_Financial_Insights_Chatbot)** | Intelligent conversational assistant analyzing financial reports and generating structured insights. | `Python` `Streamlit` `Groq LLM` `yfinance` | [View Repo ➔](https://github.com/deekshi07/AI-Powered_Financial_Insights_Chatbot) |
+| **[AI-Powered-Analytics-Dashboard](https://github.com/deekshi07/AI-Powered-Analytics-Dashboard)** | Modern enterprise analytics platform featuring dynamic chart visualizations and data grids. | `Next.js 15` `React 19` `Recharts` `Tailwind` | [View Repo ➔](https://github.com/deekshi07/AI-Powered-Analytics-Dashboard) |
 | **[court_data_fetch](https://github.com/deekshi07/court_data_fetch)** | Legal data scraping engine & dashboard extracting court metadata and judgment PDFs into SQLite. | `Python` `Flask` `BeautifulSoup4` `SQLite` | [View Repo ➔](https://github.com/deekshi07/court_data_fetch) |
-| **[python-fullstack-journey](https://github.com/deekshi07/python-fullstack-journey)** | Structured repository tracking advanced Python concepts, API design, algorithms, and microservices. | `Python` `FastAPI` `Django` `Data Structures` | [View Repo ➔](https://github.com/deekshi07/python-fullstack-journey) |
-| **[whatsapp-drive-assistant](https://github.com/deekshi07/whatsapp-drive-assistant)** | Automation pipeline bridging messaging workflows directly to cloud storage backups. | `JavaScript` `Node.js` `Cloud APIs` | [View Repo ➔](https://github.com/deekshi07/whatsapp-drive-assistant) |
+| **[python-fullstack-journey](https://github.com/deekshi07/python-fullstack-journey)** | Structured repository tracking advanced Python concepts, API design, algorithms, and microservices. | `Python` `FastAPI` `Django` `PostgreSQL` | [View Repo ➔](https://github.com/deekshi07/python-fullstack-journey) |
 
 ---
 
